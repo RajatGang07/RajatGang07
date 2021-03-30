@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RajatGang07
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me gangrajat.mail@gmail.com
-
-<!---
-RajatGang07/RajatGang07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Primary coding language: JS.
+I’m currently working on my portfolio.
+I am currently learning Backend
+I'm looking to collaborate on Open source project
+Competitive Programmer
+Ask me about anything, I'll be happy to help.
+If you play Counter Strike- add me: rajatgang786
